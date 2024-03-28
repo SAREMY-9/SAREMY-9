@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAREMY-9
-- I am a passionate IT Student
+- I am a passionate IT guy.
 - 👀 I’m interested in software engineering...
-- 🌱 I’ve been learning software engineering since 2020 and coding ever since..
+- 🌱 I’ve been doing software engineering since 2020 and coding ever since..
 - 💞️ I’m looking to collaborate on impactful projects..
 - 📫 How to reach me +254706601739..
 - brianowino226@gmail.com..
