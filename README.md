@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian Ochieng
-I go by the pseudo- @SAREMY-9
+I go by the pseudo-SAREMY-9
 - I am a passionate IT guy.
 - 👀 I’m interested in software engineering...
 - 🌱 I’ve been doing software engineering since 2020 and coding ever since..
