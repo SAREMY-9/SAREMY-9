@@ -2,7 +2,7 @@
 I go by the pseudo-SAREMY-9
 - I am a passionate IT guy.
 - 👀 I’m interested in software engineering...
-- 🌱 I’ve been doing software engineering since 2020 and coding ever since..
+- 🌱 I’ve been coding since 2020..
 - 💞️ I’m looking to collaborate on impactful projects..
 - 📫 How to reach me +254706601739..
 - brianowino226@gmail.com..
