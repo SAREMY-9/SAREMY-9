@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Brian Ochieng
 I go by the pseudo-SAREMY-9
-- I am a passionate IT guy.
-- 👀 I’m interested in software engineering...
+- I am a passionate Engineer.
 - I have a vast understanding of software engineering and it's principles.
 - 💞️ I’m looking to collaborate on impactful projects..
 - 📫 How to reach me +254706601739..
