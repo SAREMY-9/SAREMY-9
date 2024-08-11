@@ -4,7 +4,7 @@ I go by the pseudo-SAREMY-9
 - I have a vast understanding of software engineering and it's principles.
 - 💞️ I’m looking to collaborate on impactful projects..
 - 📫 How to reach me +254706601739..
-- brianowino226@gmail.com..
+- brianowino226@gmail.com / obrianov@gmail.com..
 
 <!---
 SAREMY-9/SAREMY-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
